@@ -72,3 +72,4 @@ public double znamenko2(String s) {
 			return 0;
 		}
 
+tokken
