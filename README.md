@@ -73,3 +73,4 @@ public double znamenko2(String s) {
 		}
 
 tokken
+tokken mi furt nejde
